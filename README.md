@@ -28,3 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ![image](https://github.com/Aminadziri96/DataHorizon__Crud/assets/59887754/30884385-7dc5-4733-bc90-3df69bff4305)
+
+![image](https://github.com/Aminadziri96/DataHorizon__Crud/assets/59887754/07391840-8aeb-4e6c-ac2c-57ad656a0ebd)
+
+![image](https://github.com/Aminadziri96/DataHorizon__Crud/assets/59887754/5ea3b4aa-7ace-478b-97eb-3b9faaf3dcb9)
+
