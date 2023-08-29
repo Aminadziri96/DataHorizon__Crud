@@ -1,6 +1,6 @@
 # CrudApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
 
@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+![image](https://github.com/Aminadziri96/DataHorizon__Crud/assets/59887754/30884385-7dc5-4733-bc90-3df69bff4305)
